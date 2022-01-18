@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package app.lawnchair
+package app.lawndesk
 
 import android.content.Context
 import android.content.Intent
